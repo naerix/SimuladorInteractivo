@@ -11,7 +11,7 @@ function login(){
     }
 
     else{
-        alert("la cagaste");
+        alert("contraseña o usuario incorrectos");
     }
 }
 
